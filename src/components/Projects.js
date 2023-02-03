@@ -17,7 +17,7 @@ export default function Projects() {
             fuga dolore.
           </p> */}
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="flex flex-wrap -m-2">
           {projects.map((project) => (
             <a
               href={project.link} target="_blank"
@@ -36,7 +36,7 @@ export default function Projects() {
                   <h1 className="title-font text-lg font-medium text-white mb-3">
                     {project.title}
                   </h1>
-                  <p className="leading-relaxed">{project.description}</p>
+                  <p className="leading-relaxed w-100">{project.description}</p>
                 </div>
               </div>
             </a>

@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Es una Single-page application que consume información de theDogApi, permitiéndonos además crear nuestras propias razas de perros. Tecnologias usadas: JavaScript, React.js, Redux, CSS, HTML, Node.js, Sequelize, PostgreSQL, Express.js",
     image: "./HenryDogs.png",
-    link: "https://reactbootcamp.com",
+    // link: "https://reactbootcamp.com",
   },
   {
     title: "EasyLearning",
