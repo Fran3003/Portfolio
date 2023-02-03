@@ -47,7 +47,6 @@ export default function Contact() {
                 DIRECCIÓN
               </h2>
               <p className="mt-1">
-                Sarmiento 343 <br />
                 Buenos Aires, Bahia Blanca
               </p>
             </div>
