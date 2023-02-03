@@ -39,7 +39,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=Sarmiento+343,+Bahía+Blanca,+Buenos+Aires,+Argentina&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="src=https://www.google.com/maps/embed/v1/place?q=Bahía+Blanca,+Provincia+de+Buenos+Aires,+Argentina&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
@@ -58,10 +58,10 @@ export default function Contact() {
               <a className="text-indigo-400 leading-relaxed">
                 franco.rantucho@gmail.com
               </a>
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
+              {/* <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 TELÉFONO
               </h2>
-              <p className="leading-relaxed">(2923) 439562</p>
+              <p className="leading-relaxed">(2923) 439562</p> */}
             </div>
           </div>
         </div>
