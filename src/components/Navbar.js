@@ -2,6 +2,7 @@ import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
 import { AiFillLinkedin, AiOutlineGithub } from 'react-icons/ai';
 
+
 export default function Navbar() {
   return (
     <header className="bg-gray-800 md:sticky top-0 z-10">
@@ -24,7 +25,7 @@ export default function Navbar() {
         </nav>
           <a  href='https://www.linkedin.com/in/franco-emanuel-rantucho/' target="_blank" className="mr-5 hover:text-white"><AiFillLinkedin/></a>
           <a  href='https://github.com/Fran3003' target="_blank" className="mr-5 hover:text-white"><AiOutlineGithub/></a>
-          <a download href='./Curriculum/CV - Franco Emanuel Rantucho.pdf' className="mr-5 hover:text-white"> CV </a>
+          <a download href='./Curriculum/CV-Franco Rantucho' className="mr-5 hover:text-white"> CV </a>
         <a
           href="#contact"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
