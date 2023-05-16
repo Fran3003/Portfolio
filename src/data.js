@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Coaching Empleo Capacitacion",
+    subtitle: "Proyecto formulario",
+    description:
+      "Formulario para proyecto de automaticacion de un diagnóstico inicial de búsqueda de empleo.",
+    image: "./Formulario.png",
+    link: "https://formulario-xx6k.vercel.app/",
+  },
+  {
     title: "Henry Dogs",
     subtitle: "Proyecto individual",
     description:
@@ -15,14 +23,7 @@ export const projects = [
     image: "./easyLearning.png",
     link: "https://easylearning-fp.web.app/",
   },
-  // {
-  //   title: "DevChat",
-  //   subtitle: "React and Firebase",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-3.gif",
-  //   link: "https://reactbootcamp.com",
-  // },
+  
   // {
   //   title: "Epic Todo App",
   //   subtitle: "React Hooks",
