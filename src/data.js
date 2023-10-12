@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Spotify Clone",
+    subtitle: "Spotify Clone",
+    description:
+      "Clon de spotify",
+    image: "./Spotify-clone.png",
+    link: "https://sporify-clone.vercel.app/",
+  },
+  {
     title: "Coaching Empleo Capacitacion",
     subtitle: "Proyecto formulario",
     description:
@@ -24,14 +32,6 @@ export const projects = [
     link: "https://easylearning-fp.web.app/",
   },
   
-  // {
-  //   title: "Epic Todo App",
-  //   subtitle: "React Hooks",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-4.gif",
-  //   link: "https://reactbootcamp.com",
-  // },
 ];
 
 export const testimonials = [
