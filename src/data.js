@@ -53,7 +53,7 @@ export const projects = [
     description:
       "Plataforma de e-learning donde el usuario puede comprar, crear y vender sus propios cursos. Se utilizaron las siguientes tecnologías: JavaScript, React.js, Redux, Node.js, PostgreSQL, Sequelize, Express.js, Chakra UI.",
     image: "./easyLearning.png",
-    link: "https://easylearning-fp.web.app/",
+    link: "https://github.com/Fran3003/EasyLearning-FP",
   },
  
  
